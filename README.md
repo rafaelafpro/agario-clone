@@ -3,6 +3,8 @@
 
 Um projeto de clone do famoso jogo **Agar.io**, desenvolvido para a web, utilizando **HTML**, **CSS**, e **JavaScript**. Este repositório é uma ótima introdução à programação de jogos em 2D, com foco em interatividade, animações e manipulação de canvas.
 
+https://rafaelafpro.github.io/agario-clone/
+
 ## 🚀 Funcionalidades
 
 - 🌟 Controle suave para movimentação do jogador.
